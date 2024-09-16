@@ -1,10 +1,9 @@
 {
 	"prefix": "logos",
 	"name": "SVG Logos",
-	"total": 1822,
 	"author": {
 		"name": "Kento Nakayama",
-		"url": "https://github.com/gilbarbara/logos"
+		"url": "https://github.com/NakayamaKento/azureiconkento"
 	},
 	"license": {
 		"title": "Follow Microsoft Icon terms",
@@ -12,13 +11,7 @@
 		"url": "https://learn.microsoft.com/ja-jp/azure/architecture/icons/"
 	},
 	"samples": [
-		"npm-icon",
-		"uikit",
-		"patreon",
-		"serverless",
-		"vue",
-		"modernizr"
 	],
-	"category": "Brands / Social",
+	"category": "Azure / Icon",
 	"palette": true
 }
