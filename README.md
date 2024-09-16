@@ -1,10 +1,10 @@
 # SVG Logos
 
-This package contains icon data for SVG Logos icon set.
+This package contains Azure icon data for SVG Logos icon set.
 
 Files:
 
--   Icon data is stored in `icons.json` in `IconifyJSON` format. See [IconifyJSON documentation](https://iconify.design/docs/types/iconify-json.html).
+-   Icon data is stored in `azureicons` file in `IconifyJSON` format. See [IconifyJSON documentation](https://iconify.design/docs/types/iconify-json.html).
 -   Icon set information is stored in `info.json` in `IconifyInfo` format. See [IconifyInfo documentation](https://iconify.design/docs/types/iconify-info.html).
 
 ## Installation

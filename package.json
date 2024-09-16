@@ -1,6 +1,6 @@
 {
   "name": "azureiconkento",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "module": "index.mjs",
   "types": "index.d.ts",
@@ -19,13 +19,13 @@
 		"info": "info.json"
 	},
   "scripts": {
-    "test": "azureiconkento"
+    "test": ""
   },
   "keywords": [
     "azure",
     "icon"
   ],
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "https://learn.microsoft.com/ja-jp/azure/architecture/icons/",
+  "description": "follow the Microsoft Icon terms"
 }
